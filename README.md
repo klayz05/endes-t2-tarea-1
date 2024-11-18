@@ -1,1 +1,1 @@
-Git ya está completamente c
+Git ya está completamente controlado
